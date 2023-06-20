@@ -7,7 +7,7 @@ To run the pipeline
 chmod +x freyja-run
 
 2. Keep your FASTQ files in a directory
-3. Keep the refence in a directory eg: /home/SARS/*All the files .dict, .fasta, .amb, .ann, .bwt, .fai, .pac, .sa
+3. Keep the reference in a directory eg: /home/SARS/*All the files .dict, .fasta, .amb, .ann, .bwt, .fai, .pac, .sa
 
 To run the pipeline use ./freyja-run
 
