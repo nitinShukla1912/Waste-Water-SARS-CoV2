@@ -1,6 +1,11 @@
 # Waste-Water-SARS-CoV2
 Waste water analysis using Freyja pipeline with Automation
 
+**Tools required **
+conda install -c bioconda bwa
+conda install -c bioconda samtools
+conda install -c bioconda freyja
+
 To run the pipeline 
 1. Give executable permission to freyja-run
    
