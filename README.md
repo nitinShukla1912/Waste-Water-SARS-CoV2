@@ -19,6 +19,6 @@ Enter the output directory path: Path to get the results eg: /home/SARS/Result
 
 
 
-Please refer orginal github repository for this analysis 
+Please refer original github repository for this analysis 
 
 https://github.com/andersen-lab/Freyja
