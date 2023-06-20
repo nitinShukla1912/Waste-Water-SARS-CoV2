@@ -16,3 +16,9 @@ Enter the reference genome path: Path to your directory eg: /home/SARS/SARSCoV2_
 Enter the FASTQ directory path: Path to a directory containing FASTQ files (.gz) eg: /home/SARS/FASTQ/
 
 Enter the output directory path: Path to get the results eg: /home/SARS/Result
+
+
+
+Please refer orginal github repository for this analysis 
+
+https://github.com/andersen-lab/Freyja
